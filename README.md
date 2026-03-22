@@ -70,7 +70,7 @@ The lab-specified radius values (350–600) are appropriate for the unscaled fea
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/MSCS_634_Lab_2.git
+   git clone https://github.com/ABasani22/Lab-2-Classification-Using-KNN-and-RNN-Algorithms
    cd MSCS_634_Lab_2
    ```
 
